@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my company's games
 - 📫 How to reach me: gmail/scratch
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I HAVE A LIFFE XD
+- ⚡ Fun fact: I HAVE A LIFE XD
 
 <!---
 zachcodez-pixel/zachcodez-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
